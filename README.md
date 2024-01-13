@@ -1,9 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achilles3458&label=Profile%20views&color=0e75b6&style=flat" alt="achilles3458" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achilles" alt="achilles3458" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="achilles3458" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achilles3458" alt="achilles3458" /></a> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nothing+is+impossible!;)](https://git.io/typing-svg)
 
