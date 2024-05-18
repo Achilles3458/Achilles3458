@@ -36,4 +36,6 @@ I work as a software engineer who is more focused on frontend engineering. I hav
 </p>
 ---
 ### 📈 GitHub Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilles3458&show_icons=true&locale=en&layout=compact" alt="achilles3458" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achilles3458&show_icons=true&locale=en" alt="achilles3458" /></p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
